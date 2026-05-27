@@ -83,11 +83,12 @@ Output:
 
 ```
 KVL:
-<img width="841" height="554" alt="image" src="https://github.com/user-attachments/assets/5f41d4b2-18a7-4dde-886a-d3b7bc80965d" />
-
+<img width="844" height="554" alt="image" src="https://github.com/user-attachments/assets/6cb38493-49e3-46ca-a314-b39f376e8bf9" />
 
 KCL:
-<img width="933" height="449" alt="image" src="https://github.com/user-attachments/assets/f9b05be5-b082-49c2-954d-274b99d692c8" />
+
+<img width="876" height="407" alt="image" src="https://github.com/user-attachments/assets/a82bb23e-fe0e-489e-8005-dc43dbc37d75" />
+
 ```
 
 RESULT:
