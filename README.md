@@ -79,6 +79,13 @@ b.  KCL:
 
 <img width="1536" height="1354" alt="image" src="https://github.com/user-attachments/assets/2abcb617-250a-4b01-835d-6dec502494c1" />
 
+Output:
+KVL:
+<img width="841" height="554" alt="image" src="https://github.com/user-attachments/assets/5f41d4b2-18a7-4dde-886a-d3b7bc80965d" />
+
+
+KCL:
+<img width="933" height="449" alt="image" src="https://github.com/user-attachments/assets/f9b05be5-b082-49c2-954d-274b99d692c8" />
 
 
 RESULT:
